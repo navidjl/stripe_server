@@ -1,0 +1,16 @@
+{
+  "name": "stripenode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ip": "^1.1.8",
+    "stripe": "^11.12.0"
+  }
+}
